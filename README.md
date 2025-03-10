@@ -13,7 +13,7 @@ This project implements a **Retrieval-Augmented Generation (RAG) based AI Chatbo
 ## 📂 Project Structure
 ```
 ├── backend.py         
-├── frontend.py        
+├── app.py        
 ├── data
 │   ├── context.txt    
 ├── chat_history.db    
@@ -50,7 +50,7 @@ openai.api_version = "2023-09-15-preview"
 
 ### 5️⃣ Run the Chatbot
 ```sh
-streamlit run frontend.py
+streamlit run app.py
 ```
 This will launch the chatbot in your browser.
 
