@@ -6,9 +6,9 @@ import faiss
 
 # Initialize OpenAI client
 openai.api_type = "azure"
-openai.api_key = "d2323ce0232940d98649e66d446ddec3"
-openai.api_base = "https://newopenairnd.openai.azure.com/"
-openai.api_version = "2023-09-15-preview"
+openai.api_key = "*******"
+openai.api_base = "********"
+openai.api_version = "*******"
 
 TEXT_FILE_PATH = os.path.join(os.getcwd(), 'data', 'context.txt')
 DB_PATH = 'chat_history.db'
