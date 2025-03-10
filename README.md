@@ -24,7 +24,7 @@ This project implements a **Retrieval-Augmented Generation (RAG) based AI Chatbo
 ## 🛠️ Setup & Installation
 ### 1️⃣ Clone the repository
 ```sh
-git clone https://github.com/yourusername/RAG-AI-Chatbot.git
+git clone https://github.com/Yaash22/RAG-Chatbot.git
 cd RAG-AI-Chatbot
 ```
 
